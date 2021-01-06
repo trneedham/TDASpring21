@@ -3,5 +3,4 @@ matplotlib
 seaborn
 pandas
 sklearn
-math
 scipy
