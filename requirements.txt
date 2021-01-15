@@ -4,3 +4,4 @@ seaborn
 pandas
 sklearn
 scipy
+networkx
