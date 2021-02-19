@@ -6,3 +6,4 @@ sklearn
 scipy
 networkx
 gudhi
+scikit-tda
