@@ -8,3 +8,4 @@ networkx
 gudhi
 scikit-tda
 giotto-tda
+openml
